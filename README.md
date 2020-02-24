@@ -1,0 +1,1 @@
+# Convolutional-neural-networks-model-to-Predict-a-Diagnosis-of-alzheimer-disease-by-using-18F-FDG-PET
